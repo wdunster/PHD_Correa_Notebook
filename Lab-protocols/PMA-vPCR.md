@@ -35,7 +35,6 @@ For viability PCR (vPCR), divide 1 sample into 2 halves. Preserve 1 half in DNA/
 - PPE
     - Gloves
 
-
 ### Protocol: 
 1. Dim lab lights 
 2. Label 1x microcentrifuge tubes with sample label and "PMA"
