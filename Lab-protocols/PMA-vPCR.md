@@ -48,6 +48,7 @@ $$
 $$
 V_1 = \frac{50\ \mu\text{M} \cdot SampleVol}{20{,}000\ \mu\text{M}}
 $$
+
 5. Pipette 400uL of sample into each microcentrifuge tube
 6. Pipette 1uL of PMA into each microcentrifuge tube and pipette mix 3 times
 7. Cover tubes, place tubes on tube rocker to mix, and incubate in the dark for 10 min 
