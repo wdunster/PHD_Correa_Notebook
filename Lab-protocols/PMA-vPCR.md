@@ -49,12 +49,12 @@ $$
 V_1 = \frac{50\ \mu\text{M} \cdot SampleVol}{20{,}000\ \mu\text{M}}
 $$
 
-5. Pipette 400uL of sample into each microcentrifuge tube
+5. Pipette 400uL of sample into each microcentrifuge tube. If working with filter paper, placed the filter gunk side down into 400ul of water 
 6. Pipette 1uL of PMA into each microcentrifuge tube and pipette mix 3 times
 7. Cover tubes, place tubes on tube rocker to mix, and incubate in the dark for 10 min 
 8. Move tubes to PMA-Lite and incubate in blue light (465-475 nm wavelength) for 15 mins 
 9. Remove tubes from the PMA-Lite 
-10. Centrifuge tubes at 5,000g for 10min to pellet target cells
+10. If working with liquid sample, centrifuge tubes at 5,000g for 10min to pellet target cells. If working with a filter sample skip to step 12. 
 11. Pipette out and discard sample supernatant into hazardous waste container
-12. Reconstitute pellet in 1mL of DNA/RNA shield. Pipette mix to breakup pellet and ensure it is fully disolved in DNA/RNA shield
+12. Reconstitute pellet in 1mL of DNA/RNA shield or if working with a filter at 1ml of DNA/RNA shield to a tube with the filter paper. Pipette mix to breakup pellet and ensure it is fully disolved in DNA/RNA shield
 13. Store tubes in 4C fridge
